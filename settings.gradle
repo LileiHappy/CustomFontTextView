@@ -1,0 +1,2 @@
+include ':app', ':fontTextView', ':animations'
+rootProject.name='CustomFontTextView'
